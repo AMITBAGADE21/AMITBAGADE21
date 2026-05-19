@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: An Jewellery Billing And Management Software system (GST, HUID, and CRM integrated) using React.js , Node.js , MySQL & Tailwind CSS. .<br><br>👯 I’m looking to collaborate on: Any innovative React or MERN stack projects.<br><br>🤝 I’m looking for help with: Optimizing backend performance .<br><br>🌱 I’m currently learning: React.js , Node.js , MySQL , Java , Python.<br><br>💬 Ask me about: JavaScript, Frontend Architecture, or CSS Grid.<br><br>⚡ Fun fact: I prefer Dark Mode on everything, even my toaster.
+🤝 I’m looking for help with: Optimizing backend performance .<br><br>🌱 I’m currently learning: React.js , Node.js , MySQL , Java , Python.<br><br>💬 Ask me about: JavaScript, Frontend Architecture, or CSS Grid.<br><br>⚡ Fun fact: I prefer Dark Mode on everything, even my toaster.
 
 
 ## 🌐 Socials:
